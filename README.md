@@ -20,7 +20,7 @@ This project is a Java service for sending emails using Amazon Simple Email Serv
 
    ```xml
    <dependency>
-       <groupId>com.amazonaws</groupId>
-       <artifactId>aws-java-sdk-ses</artifactId>
-       <version>1.12.300</version> <!-- Check for the latest version -->
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-java-sdk-ses</artifactId>
+      <version>1.12.763</version> <!-- Check in Maven repositories the last version -->
    </dependency>
